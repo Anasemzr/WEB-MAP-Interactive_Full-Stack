@@ -1,0 +1,77 @@
+@media screen and (max-width: 768px)
+{
+    #section-create-user{
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    #section-create-user .body{
+        width: 600px;
+    }
+
+    .form-class input{
+        width: 250px;
+    }
+
+    .form-class input {
+        width: 525px;
+    }
+    .head-card{
+        width: 77px;
+    }
+    .counter{
+        left: 440px;
+    }
+    #section-create-user .body-head{
+        width: 534px;
+    }
+    i.password-show{
+        left: 395px;
+    }
+}
+@media screen and (max-width: 650px){
+    #section-create-user .body{
+        width: 350px;
+    }
+
+    .group-form-class{
+        flex-direction: column;
+    }
+    .form-class input{
+        width: 300px!important;
+    }
+    .form-class input[type="email"] {
+        width: 300px;
+    }
+
+    .sub-group-form-class {
+        margin: 10px;
+        flex-direction: column;
+        align-content: center;
+        height: 300px;
+    }
+    .sub-card{
+        margin: 5px;
+        transform: none;
+    }
+    .sub-card:hover{
+        transform: none;
+    }
+
+    .head-card{
+        width: 45px;
+    }
+    .counter{
+        left: 257px;
+        font-size: 10px;
+        width: 52px;
+        top: 21px;
+    }
+    #section-create-user .body-head{
+        width: 292px;
+    }
+    i.password-show{
+        left: 180px;
+        top: 36px;
+    }
+}

@@ -1,0 +1,19 @@
+.post-avis-card {
+    margin: 5px;
+    text-align: center;
+    display: none;
+}
+.post-avis-card form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.post-avis-card form input{
+    margin: 5px;
+}
+textarea{
+    width:100%;
+    max-width:100%;
+    /* max-height:30%; */
+    flex-direction: column;
+}

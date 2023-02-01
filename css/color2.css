@@ -1,0 +1,42 @@
+:root{
+    --bg-body-account : #65B891 ;
+    --grey : ;
+    --red : #93E5AB;
+    --dark-red: #31A354;
+    --bg : #a1d99b;
+    --font-color : #1c232a;
+    --font-color-top : #1c232a;
+    --bg-clickable : rgba(245, 248, 255, .2);
+    --head-font : #FFFFFF;
+    --bg-card : #3e3e3ea3;
+    --border-card : #3e3e3ea3;
+    --bg-second: #585858a3;
+    --chart-color : #FFFFFF;
+    --bg-btn : #BC0A0A;
+    --brd-btn : #920909;
+    --table-color : #FFFFFF;
+    --border-cel: #bababa;
+    --bg-edit-table : #3e3e3eee;
+    --border-edit-table : #2a2929;
+}
+/* .light-mode{
+    --bg-body-account : #65B891 ;
+    --grey : ;
+    --red : #93E5AB;
+    --dark-red: #31A354;
+    --bg : #a1d99b;
+    --font-color : #1c232a;
+    --font-color-top : #000000c5;
+    --bg-clickable : rgb(214, 218, 228);
+    --head-font : #FFFFFF;
+    --bg-card : #FCFBFE;
+    --border-card : #ededed;
+    --bg-second: #fdf1f1a3;
+    --border-cel: #bababa;
+    --chart-color : #920909;
+    --bg-btn : #BC0A0A;
+    --brd-btn : #920909;
+    --table-color : #000000;
+    --bg-edit-table : #FCFBFE;
+    --border-edit-table : #ededed;
+} */
